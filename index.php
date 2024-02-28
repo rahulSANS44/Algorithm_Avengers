@@ -32,8 +32,8 @@
                         <img src="xyz.jpg" alt="xyz">
                     </div>
                     <ul>
-                        <li><a href="dashboard.html">Dashboard</a></li>
-                        <li><a href="logout.html">Log out</a></li>
+                        <li><a href="signup.php">Signup</a></li>
+                        <li><a href="login.php">Log in</a></li>
                     </ul>
                 </li>
             </ul>
